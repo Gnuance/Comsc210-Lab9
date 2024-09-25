@@ -7,7 +7,7 @@ int main() {
     // complete this code in order to make it output
     // the numbers 1-100
 
-    for (size_t i = 0; i <= 100; ++i){
+    for (size_t i = 1; i <= 100; ++i){
         cout << i << " ";
         }
 
