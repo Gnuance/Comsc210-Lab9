@@ -1,3 +1,5 @@
+// Lab 9: Git setup and tiny program
+
 #include <iostream>
 using namespace std;
 
